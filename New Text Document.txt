@@ -1,0 +1,2 @@
+Problem Statement:
+How can we build a Python-based machine learning model to optimize retail product prices—using features like historical sales, competitor prices, seasonality, and product attributes—to maximize revenue and profit?
